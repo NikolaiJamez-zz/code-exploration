@@ -1,0 +1,3 @@
+class WobblyFirework extends Firework {
+    
+}
